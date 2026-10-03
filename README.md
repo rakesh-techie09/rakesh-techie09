@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Rakesh Jadennavar 👋
+I'm a Computer Science Diploma student from Karnataka, India.
+I'm currently learning Python, Data Structures, AI and Machine Learning. I like learning by building small projects and trying things on my own.
 
-<!--
-**rakesh-techie09/rakesh-techie09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ What I'm Learning
+- Python
+- Data Structures
+- AI & Machine Learning
+- Java
+- SQL & SQLite
+- Linux
+- Git & GitHub
 
-Here are some ideas to get you started:
+## 📌 My Projects
+- Habit Tracker
+- Money Tracker
+- Pharmacy Management System
+- Random Forest Classification
+- Python practice programs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 My Goals
+I want to improve my programming basics, build useful projects, and become a good software engineer.
+I'm still learning, so this GitHub profile is also a record of my learning journey.
+
+## 🔗 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/rakeshjadennavar
+- ▶️ YouTube: https://youtube.com/@learnwithrakesh
+- 📸 Instagram: https://www.instagram.com/rakesh_jadennavar
+- 🐙 GitHub: https://github.com/rakesh-techie09
